@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="myName" value="Adari Vamsi Copyright Profile" />
+    <option name="notice" value="Copyright Vamsi Charan Adari. All rights reserved." />
+  </copyright>
+  <settings default="Adari Vamsi Copyright Profile">
+    <module2copyright>
+      <element module="All" copyright="Adari Vamsi Copyright Profile" />
+    </module2copyright>
+  </settings>
+</component>
